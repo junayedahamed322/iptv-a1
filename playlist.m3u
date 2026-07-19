@@ -263,31 +263,24 @@ https://d2lk5u59tns74c.cloudfront.net/out/v1/67cec794d8b14f9ba21f73924ac65797/in
 https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/40492a64c1db4a1385ba1a397d357d3a/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/sqeIrMo.jpeg" group-title="Entertainment",Aap Ki Adalat
 https://amg01550-indiatv-indiatv-aapkiadalat-mi-xiaomi-n5tuk.amagi.tv/playlist/amg01550-indiatv-indiatv-aapkiadalat-mi-xiaomi/playlist.m3u8
-#EXTM3U
 
+#=======================================================================
 # Pakistan Entertainment & Drama
-
+#=======================================================================
 #EXTINF:-1 tvg-name="Hum TV" tvg-logo="https://i.ibb.co/LdQyY3N/hum-tv.png" group-title="Pakistan Entertainment",Hum TV
 https://cdn.playtv.com.pk/live/humtv/playlist.m3u8
-
 #EXTINF:-1 tvg-name="ARY Digital" tvg-logo="https://i.ibb.co/VvM5Y5n/ary-digital.png" group-title="Pakistan Entertainment",ARY Digital
 https://cdn.playtv.com.pk/live/arydigital/playlist.m3u8
-
 #EXTINF:-1 tvg-name="Geo Entertainment" tvg-logo="https://i.ibb.co/KmR4CqK/geo-ent.png" group-title="Pakistan Entertainment",Geo Entertainment
 https://cdn.playtv.com.pk/live/geoentertainment/playlist.m3u8
-
 #EXTINF:-1 tvg-name="Green Entertainment" tvg-logo="https://i.ibb.co/wctYfGz/green-ent.png" group-title="Pakistan Entertainment",Green Entertainment
 https://cdn.playtv.com.pk/live/greenentertainment/playlist.m3u8
-
 #EXTINF:-1 tvg-name="Express Entertainment" tvg-logo="https://i.ibb.co/vYm6z20/express-ent.png" group-title="Pakistan Entertainment",Express Entertainment
 https://cdn.playtv.com.pk/live/expentertainment/playlist.m3u8
-
 #EXTINF:-1 tvg-name="A Plus TV" tvg-logo="https://i.ibb.co/R2tXzYm/a-plus.png" group-title="Pakistan Entertainment",A Plus TV
 https://cdn.playtv.com.pk/live/aplus/playlist.m3u8
-
 #EXTINF:-1 tvg-name="TV One Pakistan" tvg-logo="https://i.ibb.co/k27rBfx/tv-one.png" group-title="Pakistan Entertainment",TV One Pakistan
 https://cdn.playtv.com.pk/live/tvone/playlist.m3u8
-
 #EXTINF:-1 tvg-name="LTN Family" tvg-logo="https://i.ibb.co/kQ0W3G4/ltn-family.png" group-title="Pakistan Entertainment",LTN Family
 https://cdn.playtv.com.pk/live/ltnfamily/playlist.m3u8
 
